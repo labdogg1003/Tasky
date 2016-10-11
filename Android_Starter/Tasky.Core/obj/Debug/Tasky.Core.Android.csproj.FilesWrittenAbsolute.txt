@@ -1,2 +1,0 @@
-/Users/labdog/Desktop/Tasky/Android_Starter/Tasky.Core/obj/Debug/MonoAndroid,Version=v2.3.AssemblyAttribute.cs
-/Users/labdog/Desktop/Tasky/Android_Starter/Tasky.Core/obj/Debug/Tasky.obj.Debug.__AndroidLibraryProjects__.zip

@@ -42,15 +42,12 @@
     <Reference Include="Mono.Data.Sqlite" />
     <Reference Include="System.Data" />
   </ItemGroup>
-  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup />
   <ItemGroup>
     <Compile Include="Task.cs" />
     <Compile Include="TaskManager.cs" />
     <Compile Include="TaskDatabaseADO.cs" />
     <Compile Include="TaskRepositoryADO.cs" />
-    <Compile Include="TodoDatabaseADO.cs" />
-    <Compile Include="TodoItem.cs" />
-    <Compile Include="TodoItemManager.cs" />
   </ItemGroup>
 </Project>
